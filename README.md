@@ -26,5 +26,5 @@ YouTube: https://goo.gl/BFZ7C5 </br>
 StackOverFlow: https://goo.gl/J1hFqL </br>
 Github: https://goo.gl/jPHFPe </br>
 
-Check the app here: https://nodejswebapplication.herokuapp.com/
+Check the app here: https://python-web-1.herokuapp.com/
 
